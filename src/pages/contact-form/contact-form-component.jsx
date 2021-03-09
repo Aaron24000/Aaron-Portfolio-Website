@@ -29,7 +29,7 @@ const Contact = () => {
               </div>
               
               <div className="m-2">
-                <a href="https://github.com/akjha96" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/Aaron24000" target="_blank" rel="noopener noreferrer">
                   <Button variant="outline-dark" title="My other projects">
                     <i className="fab fa-github-square"></i> GitHub
                   </Button>
